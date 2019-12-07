@@ -4,3 +4,6 @@
 [submodule "linux-exploit-suggester"]
 	path = Privilege_Escalation/linux/linux-exploit-suggester
 	url = https://github.com/mzet-/linux-exploit-suggester.git
+[submodule "Privilege_Escalation/windows/juicy-potato"]
+	path = Privilege_Escalation/windows/juicy-potato
+	url = https://github.com/ohpe/juicy-potato.git
