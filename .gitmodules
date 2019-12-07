@@ -1,6 +1,6 @@
 [submodule "LinEnum"]
-	path = LinEnum
+	path = Privilege_Escalation/linux/LinEnum
 	url = https://github.com/rebootuser/LinEnum.git
 [submodule "linux-exploit-suggester"]
-	path = linux-exploit-suggester
+	path = Privilege_Escalation/linux/linux-exploit-suggester
 	url = https://github.com/mzet-/linux-exploit-suggester.git
