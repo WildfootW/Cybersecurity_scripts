@@ -7,3 +7,6 @@
 [submodule "Privilege_Escalation/windows/juicy-potato"]
 	path = Privilege_Escalation/windows/juicy-potato
 	url = https://github.com/ohpe/juicy-potato.git
+[submodule "Privilege_Escalation/windows/PowerSploit-AdrianVollmer"]
+	path = Privilege_Escalation/windows/PowerSploit-AdrianVollmer
+	url = https://github.com/AdrianVollmer/PowerSploit.git
