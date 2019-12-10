@@ -1,4 +1,4 @@
-# Privilege_Escalation
+# Security utility scripts
 
 ```
 cd /opt
