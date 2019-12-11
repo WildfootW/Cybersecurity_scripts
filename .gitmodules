@@ -5,14 +5,17 @@
 	path = Privilege_Escalation/linux/linux-exploit-suggester
 	url = https://github.com/mzet-/linux-exploit-suggester.git
 [submodule "Privilege_Escalation/windows/juicy-potato"]
-	path = Privilege_Escalation/windows/juicy-potato
+	path = Privilege_Escalation/windows/Juicy-Potato/JuicyPotato
 	url = https://github.com/ohpe/juicy-potato.git
 [submodule "Privilege_Escalation/windows/PowerSploit-AdrianVollmer"]
-	path = Privilege_Escalation/windows/PowerSploit-AdrianVollmer
+	path = Privilege_Escalation/windows/Enumerations/PowerSploit-AdrianVollmer
 	url = https://github.com/AdrianVollmer/PowerSploit.git
 [submodule "Privilege_Escalation/windows/PowerSploit-dev"]
-	path = Privilege_Escalation/windows/PowerSploit-dev
+	path = Privilege_Escalation/windows/Enumerations/PowerSploit-dev
 	url = https://github.com/PowerShellMafia/PowerSploit.git
 [submodule "Network_Protocol/impacket/SecureAuthCorp"]
 	path = Network_Protocol/impacket/SecureAuthCorp
 	url = https://github.com/SecureAuthCorp/impacket.git
+[submodule "Privilege_Escalation/windows/Just Another Windows Script"]
+	path = Privilege_Escalation/windows/Enumerations/Just Another Windows Script
+	url = https://github.com/411Hall/JAWS.git
