@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# clone from https://github.com/leonteale/pentestpackage/blob/master/Gpprefdecrypt.py
 #
 # Gpprefdecrypt - Decrypt the password of local users added via Windows 2008 Group Policy Preferences.
 #
