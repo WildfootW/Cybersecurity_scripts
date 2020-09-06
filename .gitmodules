@@ -16,3 +16,6 @@
 [submodule "Privilege_Escalation/windows/Just Another Windows Script"]
 	path = Privilege_Escalation/windows/Enumerations/Just Another Windows Script
 	url = https://github.com/411Hall/JAWS.git
+[submodule "Misc_Collection/DVCS-Pillage"]
+	path = Misc_Collection/DVCS-Pillage
+	url = https://github.com/evilpacket/DVCS-Pillage.git
