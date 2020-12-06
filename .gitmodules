@@ -19,3 +19,6 @@
 [submodule "Misc_Collection/DVCS-Pillage"]
 	path = Misc_Collection/DVCS-Pillage
 	url = https://github.com/evilpacket/DVCS-Pillage.git
+[submodule "Privilege_Escalation/privilege-escalation-awesome-scripts-suite"]
+	path = Privilege_Escalation/privilege-escalation-awesome-scripts-suite
+	url = https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite.git
